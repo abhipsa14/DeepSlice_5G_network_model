@@ -1,2 +1,1 @@
-# deepslice
-Deepslice model for 5g network
+# DeepSlice - 5G Network 
