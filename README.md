@@ -30,9 +30,9 @@ Paper on [DeepSlice: A Deep Learning Approach towards an Efficient and Reliable 
    ```bash
    cd DeepSlice_5G_network_model
    ```
-3. Activate the virtual environment:
+3. Activate the virtual environment(on windows):
    ```bash
-   .\myenv\Scripts\Activate.ps1
+   .\<your-environment>\Scripts\Activate.ps1
    ```
 4. Install the required dependencies:
    ```bash
